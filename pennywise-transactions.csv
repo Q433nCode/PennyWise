@@ -1,0 +1,4 @@
+type,date,description,category,amount
+INCOME,2026-10-23,"salary income","Salary",5500
+EXPENSE,2026-10-28,"to work","Transport",1000
+EXPENSE,2026-10-28,"rent","Housing",1460
